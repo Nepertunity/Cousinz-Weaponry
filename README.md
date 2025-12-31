@@ -5,17 +5,16 @@ The download includes multiple datapacks, these are necessary libraries that I u
 
 A custom weapon's datapack specifically designed for a server dedicated to my friends and cousins. Currently, this pack includes 7 weapons, with 2 more planned.
 
-Credits for utilities and libraries used:
-beet, .mcfunction precompiler that uses Python
-
-Player Motion Lib, a datapack motion library
-Timber Forge, YouTuber who helped with raycasting concepts & various other things
-Cloud Wolf, a YouTuber who taught various things
-Minecraft Commands Discord, help with Minecraft command syntax
-Beet Discord server, help with beet
-Big Papi Gaming, YouTuber who taught the basics of beet, and also some instrumental particle techniques
-ChatGPT, generating geometric python functions using the math lib in python
-
+Credits for utilities and libraries used:  
+beet, .mcfunction precompiler that uses Python  
+Player Motion Lib, a datapack motion library  
+Timber Forge, YouTuber who helped with raycasting concepts & various other things  
+Cloud Wolf, a YouTuber who taught various things  
+Minecraft Commands Discord, help with Minecraft command syntax  
+Beet Discord server, help with beet  
+Big Papi Gaming, YouTuber who taught the basics of beet, and also some instrumental particle techniques  
+ChatGPT, generating geometric python functions using the math lib in python  
+ 
 List of weapons and their abilities:
 1. Wardent (trident)
 * Left Click - Spout
