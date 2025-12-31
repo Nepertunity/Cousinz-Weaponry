@@ -7,6 +7,7 @@ A custom weapon's datapack specifically designed for a server dedicated to my fr
 
 Credits for utilities and libraries used:
 beet, .mcfunction precompiler that uses Python
+
 Player Motion Lib, a datapack motion library
 Timber Forge, YouTuber who helped with raycasting concepts & various other things
 Cloud Wolf, a YouTuber who taught various things
