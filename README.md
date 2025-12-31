@@ -1,7 +1,7 @@
 # Cousinz-Weaponry 1.0.0
 Important Notes:
 Made for 1.21.11
-The download include multiple datapacks, these are necessary libraries that I use.
+The download includes multiple datapacks, these are necessary libraries that I use.
 
 A custom weapon's datapack specifically designed for a server dedicated to my friends and cousins. Currently, this pack includes 7 weapons, with 2 more planned.
 
