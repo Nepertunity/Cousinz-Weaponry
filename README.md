@@ -8,26 +8,26 @@ Credits for utilities and libraries used:
 -Cloud Wolf, YouTuber who taught various things
 
 List of weapons and their abilities:
-* Wardent (trident)
-	Left Click - Spout
-* Trudgeon (mace)
-	Right Click - Gust
-* Arcane Bow (bow)
-	Left Click - Volley
-	Right Click (Hold) - Bolt
-  	Sneak + Right Click (Hold) - Beam
-* Spyglass Sniper (spyglass)
-	Left Click - Lunge
-	Sneak + Right Click - Snipe
-* Verdigris (copper pickaxe)
-	Left Click - Copper Nugget
-	Right Click - Grappling Hook
-	Shift + Right Click - Turret
-* Dragon Ballista (crossbow)
-	Left Click - Escape
-  	Right Click - Dragon's Breath
-* Magnite (fishing rod)
-	Left Click - Dripstone Hail
-	Right Click - Flaming Tornado
+1. Wardent (trident)
+* Left Click - Spout
+2. Trudgeon (mace)
+* Right Click - Gust
+3. Arcane Bow (bow)
+* Left Click - Volley
+* Right Click (Hold) - Bolt
+* Sneak + Right Click (Hold) - Beam
+4. Spyglass Sniper (spyglass)
+* Left Click - Lunge
+* Sneak + Right Click - Snipe
+5. Verdigris (copper pickaxe)
+* Left Click - Copper Nugget
+* Right Click - Grappling Hook
+* Shift + Right Click - Turret
+6. Dragon Ballista (crossbow)
+* Left Click - Escape
+* Right Click - Dragon's Breath
+7. Magnite (fishing rod)
+* Left Click - Dripstone Hail
+* Right Click - Flaming Tornado
 
 
