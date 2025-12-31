@@ -13,6 +13,8 @@ Cloud Wolf, a YouTuber who taught various things
 Minecraft Commands Discord, help with Minecraft command syntax  
 Beet Discord server, help with beet  
 Big Papi Gaming, YouTuber who taught the basics of beet, and also some instrumental particle techniques  
+mcstacker.net, website for easy command generation
+misode.github.io, website for predicate and advancement generation
 ChatGPT, generating geometric python functions using the math lib in python  
  
 List of weapons and their abilities:
